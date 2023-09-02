@@ -1,2 +1,2 @@
-# ShokoNishimiyaBiography
-Biography Shoko Nishimiya Koe no Katchi
+Biografia sobre Shoko Nishimiya
+Biografia Shoko Nishimiya
